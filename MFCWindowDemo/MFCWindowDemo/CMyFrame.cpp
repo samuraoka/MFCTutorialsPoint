@@ -3,5 +3,5 @@
 
 CMyFrame::CMyFrame()
 {
-	Create(NULL, L"MFC Application Tutorial");
+	Create(NULL, L"MFC Application Tutorial", WS_VISIBLE | WS_OVERLAPPED);
 }
