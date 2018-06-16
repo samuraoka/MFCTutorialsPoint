@@ -3,5 +3,9 @@
 
 CMyFrame::CMyFrame()
 {
-	Create(NULL, L"MFC Application Tutorial", WS_VISIBLE | WS_OVERLAPPED);
+	LPCTSTR lpszClassName = NULL;
+	auto lpszWindowName = L"MFC Application Tutorial";
+	auto dwStyle = WS_SYSMENU;
+	auto rectDefault = CRect(90, 120, 550, 480);
+	Create(lpszClassName, lpszWindowName, dwStyle, rectDefault);
 }
