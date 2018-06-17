@@ -3,6 +3,5 @@
 class CExample : public CWinApp
 {
 public:
-	CExample();
-	~CExample();
+	BOOL InitInstance();
 };
