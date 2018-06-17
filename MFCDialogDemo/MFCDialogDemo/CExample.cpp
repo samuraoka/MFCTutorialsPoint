@@ -1,9 +1,13 @@
 #include "stdafx.h"
 #include "CExample.h"
+#include "CExampleDlg.h"
 
 CExample theApp;
 
 BOOL CExample::InitInstance()
 {
-	return 0;
+	CExampleDlg myDlg;
+	m_pMainWnd = &myDlg;
+	myDlg.DoModal();
+	return TRUE;
 }
