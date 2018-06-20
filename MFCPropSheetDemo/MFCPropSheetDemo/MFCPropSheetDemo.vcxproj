@@ -183,9 +183,9 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="CMySheet.h" />
-    <ClInclude Include="CPropPage1.h" />
-    <ClInclude Include="CPropPage2.h" />
+    <ClInclude Include="MySheet.h" />
+    <ClInclude Include="PropPage1.h" />
+    <ClInclude Include="PropPage2.h" />
     <ClInclude Include="MFCPropSheetDemo.h" />
     <ClInclude Include="MFCPropSheetDemoDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -193,9 +193,9 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CMySheet.cpp" />
-    <ClCompile Include="CPropPage1.cpp" />
-    <ClCompile Include="CPropPage2.cpp" />
+    <ClCompile Include="MySheet.cpp" />
+    <ClCompile Include="PropPage1.cpp" />
+    <ClCompile Include="PropPage2.cpp" />
     <ClCompile Include="MFCPropSheetDemo.cpp" />
     <ClCompile Include="MFCPropSheetDemoDlg.cpp" />
     <ClCompile Include="stdafx.cpp">

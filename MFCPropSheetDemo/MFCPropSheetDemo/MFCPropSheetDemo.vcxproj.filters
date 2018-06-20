@@ -30,13 +30,13 @@
     <ClInclude Include="Resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CPropPage1.h">
+    <ClInclude Include="MySheet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CPropPage2.h">
+    <ClInclude Include="PropPage1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CMySheet.h">
+    <ClInclude Include="PropPage2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -50,13 +50,13 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CPropPage1.cpp">
+    <ClCompile Include="MySheet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CPropPage2.cpp">
+    <ClCompile Include="PropPage1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CMySheet.cpp">
+    <ClCompile Include="PropPage2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
