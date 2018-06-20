@@ -184,6 +184,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CPropPage1.h" />
+    <ClInclude Include="CPropPage2.h" />
     <ClInclude Include="MFCPropSheetDemo.h" />
     <ClInclude Include="MFCPropSheetDemoDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -192,6 +193,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPropPage1.cpp" />
+    <ClCompile Include="CPropPage2.cpp" />
     <ClCompile Include="MFCPropSheetDemo.cpp" />
     <ClCompile Include="MFCPropSheetDemoDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
